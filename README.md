@@ -22,7 +22,7 @@ A collaborative list of awesome swift UI/UX libraries. Inspired by [cjwirth]'s e
 
 Name                                                                                                     | License | Sample
 -------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[SAHistoryNavgiationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) | [MIT]   | <img src="assets/SAHistoryNavgigationViewController/3dtouch.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/sample.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/touch.gif" width="49%">
+[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) | [MIT]   | <img src="assets/SAHistoryNavgigationViewController/3dtouch.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/sample.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/touch.gif" width="49%">
 
 ### Button
 ### Calendar
