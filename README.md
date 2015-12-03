@@ -24,6 +24,7 @@ Name                                                                            
 -------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) | [MIT]               | <img src="assets/SAHistoryNavgigationViewController/3dtouch.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/sample.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/touch.gif" width="49%">
 [Tispr Card Stack](https://github.com/tispr/tispr-card-stack)                                            | [Apache License V2] | <img src="assets/tispr-card-stack/Screenshot_main.gif" width="49%">
+[WobbleView](https://github.com/inFullMobile/WobbleView)                                                 | [MIT]               | <img src="assets/WobbleView/wobble.gif">
 
 ### Button
 ### Calendar
