@@ -54,6 +54,11 @@ Name                                                              | License | Sa
 ### Refresh
 ### Table/Collection View
 ### Tutorial/Onboarding
+
+Name                                                      | License | Sample
+--------------------------------------------------------- | ------- | -----------------------------------------------------------
+[Presentation](https://github.com/hyperoslo/Presentation) | [MIT]   | <img src="assets/Presentation/Parallax-v2.gif" width="49%">
+
 ### Other
 
 [cjwirth]: https://github.com/cjwirth
