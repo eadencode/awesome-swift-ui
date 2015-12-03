@@ -20,9 +20,10 @@ A collaborative list of awesome swift UI/UX libraries. Inspired by [cjwirth]'s e
 
 ### Animation
 
-Name                                                                                                     | License | Sample
--------------------------------------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) | [MIT]   | <img src="assets/SAHistoryNavgigationViewController/3dtouch.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/sample.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/touch.gif" width="49%">
+Name                                                                                                     | License             | Sample
+-------------------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) | [MIT]               | <img src="assets/SAHistoryNavgigationViewController/3dtouch.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/sample.gif" width="49%"> <img src="assets/SAHistoryNavgigationViewController/touch.gif" width="49%">
+[Tispr Card Stack](https://github.com/tispr/tispr-card-stack)                                            | [Apache License V2] | <img src="assets/tispr-card-stack/Screenshot_main.gif" width="49%">
 
 ### Button
 ### Calendar
@@ -40,4 +41,4 @@ Name                                                                            
 [wasabeef/awesome-android-ui]: https://github.com/wasabeef/awesome-android-ui
 [awesome-ios-ui]: https://github.com/cjwirth/awesome-ios-ui
 [mit]: http://opensource.org/licenses/MIT
-[apache-license-v2]: https://www.apache.org/licenses/LICENSE-2.0
+[apache license v2]: https://www.apache.org/licenses/LICENSE-2.0
